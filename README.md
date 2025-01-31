@@ -3,7 +3,7 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 <hr>
-<h1 align="center">I'm <a href="https://github.com/Aryagm">thebigit<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">I'm <a href="https://github.com/Aryagm">chanodyakavindi<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
 
@@ -18,7 +18,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/thebigit" target="blank"><img align="center" src="https://img.shields.io/badge/thebigit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:chamothebi@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/chamothebi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/thebigit" target="blank"><img align="center" src="https://img.shields.io/badge/thebigit-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/chanodyakavindi" target="blank"><img align="center" src="https://img.shields.io/badge/chanodyakavindi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:chamothebi@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/chamothebi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/chanodyakavindi" target="blank"><img align="center" src="https://img.shields.io/badge/thebigit-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>
@@ -55,7 +55,7 @@
 
 <br>
 <p align="left"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50" />&nbsp;<h2>Git profile Trophies</h2></p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=thebigit&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=chanodyakavindi&theme=juicyfresh&no-bg=true" />
 <!--profile visit count-->
 <div align="center">
   
