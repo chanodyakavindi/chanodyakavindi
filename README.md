@@ -11,7 +11,7 @@
 - 🔭: I’m currently working on small projects.
 - 🌱: I’m currently learning mobile application devoloping 🧠💻🤖
 - 🤔: I’m looking for help with anything I am currently learning! 😅
-- ⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹
+- ⚡  Fun fact: I play games in my free time😁
   
 <hr>
 <Br>
