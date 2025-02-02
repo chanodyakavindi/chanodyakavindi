@@ -106,4 +106,7 @@
 </div>
 <br>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chanodyakavindi&label=Profile%20views&color=0e75b6&style=flat" alt="chanodyakavindi" /> </p>
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=chanodyakavindi&color=brightgreen" alt="watching_count" />
+ </p>
+	
