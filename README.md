@@ -22,8 +22,6 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java & UI/UX...**
   
--  🤝 I’m available for freelancing in fiverr...
-
 - 📫 How to reach me **chamothebi@gmail.com**
 
 - ⚡ Fun fact **Biggest fear - Errors in codes😒**
