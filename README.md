@@ -29,7 +29,7 @@
 - 💻 Enjoy building web apps with **React**, **Next.js**, **TypeScript**
 - 💪 Self Learner
 - 🛠️ Focused on **performance**, **developer experience**, and **clean UI**  
-- ⚡ Fun fact **Biggest fear - Forgetting to restart the backend**
+- ⚡ Fun fact about me **- Forgetting to restart the backend**
 
 <br>
 <br>
