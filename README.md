@@ -18,12 +18,12 @@
 - ⚡ Fun fact **Biggest fear - Forgetting to restart the backend**
 
 <br>
+<br>
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">👨🏻‍💻 Technologies That I Know</h2></summary>
   </ul>
 </div>
-<br>
 
 <!--tech stack icons-->
 <p align="left">
