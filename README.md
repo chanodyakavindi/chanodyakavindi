@@ -10,7 +10,6 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  
-
 - 🔭 I’m currently **an undergraduate at SLIIT**
 - 💻 Enjoy building web apps with **React**, **Next.js**, **TypeScript**
 - 💪 Self Learner
@@ -21,7 +20,7 @@
 <br>
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h2 style="display: inline-block">👨🏻‍💻 Technologies That I Know</h2></summary>
+    <summary><h2 style="display: inline-block">👩‍💻 Technologies That I Know</h2></summary>
   </ul>
 </div>
 
