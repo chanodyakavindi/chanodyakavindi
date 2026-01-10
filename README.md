@@ -56,7 +56,7 @@
   <tr>
     <td align="center" width="50%">
      <img
-        src="https://nirzak-streak-stats.vercel.app/?user=chanodyakavindi&theme=dark&hide_border=false&cache_seconds=86400&v=1"
+       src="https://nirzak-streak-stats.vercel.app/?user=chanodyakavindi&theme=dark&hide_border=false&cache_seconds=86400&v=1"
       />
     </td>
 	<td width="50%" align="center">
