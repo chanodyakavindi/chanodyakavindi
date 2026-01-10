@@ -6,16 +6,17 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+undergraduate🎓;Competitive+Programmer💥;UI/UX+Designer🎨;Always+learning+new+things💯"></a>
 </p>
 
+
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  
 
 - 🔭 I’m currently **an undergraduate at SLIIT**
-- 💪 Self learner... 
-- 💻 Passionate about building fullstack apps with **React**, **Next.js**, **TypeScript**
-- 🧠 Constantly learning & sharing what I learn
+- 💻 Enjoy building web apps with **React**, **Next.js**, **TypeScript**
+- 💪 Self Learner
 - 🛠️ Focused on **performance**, **developer experience**, and **clean UI**  
-- ⚡ Fun fact **Biggest fear - Errors in codes😒**
+- ⚡ Fun fact **Biggest fear - Forgetting to restart the backend 😒**
 
 
 
@@ -29,6 +30,8 @@
 </div>
 <br>
 
+
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -36,6 +39,7 @@
   </a>
 </p>
 <br>
+
 
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
