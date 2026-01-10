@@ -7,7 +7,6 @@
 </p>
 
 
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  
@@ -18,22 +17,16 @@
 - 🛠️ Focused on **performance**, **developer experience**, and **clean UI**  
 - ⚡ Fun fact **Biggest fear - Forgetting to restart the backend**
 
-
-
-
-
 <br>
 <div id="user-content-toc">
-  <ul align="center">
+  <ul align="left">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <br>
 
-
-
 <!--tech stack icons-->
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,c,css,figma,kotlin,androidstudio,github,html,java,js,photoshop,ai,bootstrap,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,vscode,firebase,ts,r,sqlite,postgresql&perline=11" />
   </a>
