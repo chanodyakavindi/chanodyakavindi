@@ -32,19 +32,11 @@
 </p>
 <br>
 	
-<p align="left">
-  <picture>
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px" style="vertical-align: middle;" />
-  </picture>
-  <span style="vertical-align: middle; font-size: 22px; font-weight: 700;">GitHub Stats</span>
-</p>
-
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px" /></picture> GitHub Stats
 <br/>
-
 <table align="center">
   <tr>
     <td align="center" width="50%">
-
       <img
         src="https://nirzak-streak-stats.vercel.app/?user=chanodyakavindi&theme=dark&hide_border=false&cache_seconds=86400&v=1"
       />
