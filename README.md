@@ -50,25 +50,33 @@
 <br>
 
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-<br>
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px" /></picture> GitHub Stats
+<br/>
 
 <table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=chanodyakavindi&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chanodyakavindi&theme=dark&hide_border=false" /> 
-</td>
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=chanodyakavindi&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400&v=1"
+      />
+      <br/><br/>
+      <img
+        src="https://nirzak-streak-stats.vercel.app/?user=chanodyakavindi&theme=dark&hide_border=false&cache_seconds=86400&v=1"
+      />
+    </td>
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chanodyakavindi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanodyakavindi&theme=dark&hide_border=false&layout=compact&langs_count=10&cache_seconds=86400&v=1"
+      />
+    </td>
+  </tr>
 </table>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=chanodyakavindi&icon=0&color=0" />
+</p>
+
 
 <hr/><br>
 <div align="center">
