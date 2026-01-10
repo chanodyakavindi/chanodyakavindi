@@ -3,8 +3,7 @@
 
 <div align="left">
 <h2> Hi there, I'm Chanodya Kavindi!<img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2><p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+Undergraduate 🎓;Competitive+Programmer 💥;UI/UX+Designer 🎨;Always+learning+new+things 💯"></a>
-</p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+Undergraduate 🎓;Competitive+Programmer 💥;UI/UX+Designer 🎨;Always+learning+new+things 💯"></a></p>
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -51,7 +50,7 @@
 </table>
 
 <div align="center">
-  <h3> My Contributions </h3>
+  <h2> My Contributions </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 <hr/> 
