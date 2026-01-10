@@ -32,11 +32,15 @@
 </p>
 <br>
 	
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px" /></picture> GitHub Stats
-<br/>
+<h2>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px" align="center" />
+  GitHub Stats
+</h2>
+
 <table align="center">
   <tr>
     <td align="center" width="50%">
+
       <img
         src="https://nirzak-streak-stats.vercel.app/?user=chanodyakavindi&theme=dark&hide_border=false&cache_seconds=86400&v=1"
       />
