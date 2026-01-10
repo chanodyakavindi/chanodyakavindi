@@ -22,7 +22,7 @@
 
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  
 - 🔭 I’m currently **an undergraduate at SLIIT**
@@ -47,23 +47,35 @@
 </p>
 <br>
 	
-<h2>
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px" align="center" />
-  GitHub Stats
-</h2>
-
 <table align="center">
   <tr>
     <td align="center" width="50%">
       <img
-        src="https://nirzak-streak-stats.vercel.app/?user=chanodyakavindi&theme=dark&hide_border=false&cache_seconds=86400&v=1"
+        src="https://github-readme-stats.vercel.app/api?username=chanodyakavindi&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
+        alt="GitHub Stats"
       />
     </td>
-	<td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chanodyakavindi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
- </td>
+    <td align="center" width="50%">
+      <img
+        src="https://nirzak-streak-stats.vercel.app/?user=chanodyakavindi&theme=dark&hide_border=false&cache_seconds=86400&v=1"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanodyakavindi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+        alt="Top Languages"
+      />
+    </td>
+    <td align="center" width="50%">
+		<!-- optional: put something else here, or remove this td -->
+    </td>
   </tr>
 </table>
+
 
 <div align="center">
   <h2>🔥 My Contributions </h2>
