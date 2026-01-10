@@ -64,12 +64,13 @@
         src="https://nirzak-streak-stats.vercel.app/?user=chanodyakavindi&theme=dark&hide_border=false&cache_seconds=86400&v=1"
       />
     </td>
+	
+<td width="50%" align="center">
 
-    <td align="center" width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanodyakavindi&theme=dark&hide_border=false&layout=compact&langs_count=10&cache_seconds=86400&v=1"
-      />
-    </td>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chanodyakavindi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+
+ </td>
   </tr>
 </table>
 
