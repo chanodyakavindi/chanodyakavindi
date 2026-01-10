@@ -14,10 +14,10 @@
     <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif?raw=true" width="30" />
   </h2>
   <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+Undergraduate 🎓;Competitive+Programmer 💥;UI%2FUX+Designer;Always+learning+new+things 💯" />
-    </a>
-  </p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+Undergraduate+%F0%9F%8E%93;Competitive+Programmer+%F0%9F%92%A5;UI%2FUX+Designer+%F0%9F%8E%A8;Always+learning+new+things+%F0%9F%92%AF" />
+  </a>
+</p>
 </div>
 
 
