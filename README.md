@@ -24,6 +24,7 @@
   </ul>
 </div>
 <br>
+<br>
 
 <!--tech stack icons-->
 <p align="center">
