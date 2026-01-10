@@ -15,7 +15,6 @@
 - 💻 Passionate about building fullstack apps with **React**, **Next.js**, **TypeScript**
 - 🧠 Constantly learning & sharing what I learn
 - 🛠️ Focused on **performance**, **developer experience**, and **clean UI**  
-- 📫 How to reach me **chamothebi@gmail.com**
 - ⚡ Fun fact **Biggest fear - Errors in codes😒**
 
 
