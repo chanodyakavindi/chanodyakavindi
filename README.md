@@ -38,10 +38,6 @@
   <tr>
     <td align="center" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=chanodyakavindi&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400&v=1"
-      />
-      <br/><br/>
-      <img
         src="https://nirzak-streak-stats.vercel.app/?user=chanodyakavindi&theme=dark&hide_border=false&cache_seconds=86400&v=1"
       />
     </td>
