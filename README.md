@@ -83,14 +83,8 @@
   <br/>
 </div>
 <p align="left"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50" />&nbsp;<h2>Git profile Trophies</h2></p><br>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=chanodyakavindi&theme=juicyfresh&no-bg=true&cache_seconds=86400" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=chanodyakavindi&theme=juicyfresh&no-bg=true" /> 
 
-<p>
-  If the trophies don’t load, open:
-  https://github.com/ryo-ma/github-profile-trophy
-</p>
 
 
 <!--profile visit count-->
