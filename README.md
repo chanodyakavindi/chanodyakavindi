@@ -10,15 +10,13 @@
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  
 
-- 🔭 I’m currently **an undergraduate at SLIIT...**
+- 🔭 I’m currently **an undergraduate at SLIIT**
 - 💪 Self learner... 
 - 💻 Passionate about building fullstack apps with **React**, **Next.js**, **TypeScript**
 - 🧠 Constantly learning & sharing what I learn
 - 🛠️ Focused on **performance**, **developer experience**, and **clean UI**  
 - ⚡ Fun fact **Biggest fear - Errors in codes😒**
 
-
-<br>
 <br>
 <div id="user-content-toc">
   <ul align="center">
@@ -34,14 +32,11 @@
   </a>
 </p>
 <br>
-<br>
 
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 <br>
-<br>
-
 	
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px" /></picture> GitHub Stats
 <br/>
