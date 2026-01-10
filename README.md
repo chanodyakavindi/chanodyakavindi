@@ -2,9 +2,17 @@
 
 
 <div align="left">
-<h2> Hi there, I'm Chanodya Kavindi!<img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2><p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+Undergraduate 🎓;Competitive+Programmer 💥;UI/UX+Designer 🎨;Always+learning+new+things 💯"></a>
-</p>
+  <h2>
+    Hi there, I'm Chanodya Kavindi!
+    <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif?raw=true" width="30" />
+  </h2>
+  <p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+Undergraduate;Competitive+Programmer;UI%2FUX+Designer;Always+learning+new+things" />
+    </a>
+  </p>
+</div>
+
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
