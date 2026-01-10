@@ -72,11 +72,5 @@
 <hr/> 
   <br/>
 </div>
-<!--profile visit count-->
-<div align="center">
-</div>
-<br>
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=chanodyakavindi&color=brightgreen" alt="watching_count" />
- </p>
+
 	
