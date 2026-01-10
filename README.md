@@ -83,7 +83,7 @@
   <br/>
 </div>
 <p align="left"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="50" />&nbsp;<h2>Git profile Trophies</h2></p><br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=chanodyakavindi&theme=juicyfresh&no-bg=true&cache_seconds=86400)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=chanodyakavindi&theme=juicyfresh&theme=juicyfresh&cache_seconds=86400" />
 
 <!--profile visit count-->
 <div align="center">
