@@ -75,20 +75,13 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
-
-
-
 <hr/>
   
   <br/>
 </div>
 
-
-
-
 <!--profile visit count-->
 <div align="center">
-  
 [![](https://visitcount.itsvg.in/api?id=chanodyakavindi&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
