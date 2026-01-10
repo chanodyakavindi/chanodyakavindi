@@ -1,5 +1,12 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
+<!--profile visit count-->
+<div align="center">
+</div>
+<br>
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=chanodyakavindi&color=brightgreen" alt="watching_count" />
+ </p>
 
 <div align="left">
   <h2>
