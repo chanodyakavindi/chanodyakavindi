@@ -10,21 +10,15 @@
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  
 
-
 - 🔭 I’m currently **an undergraduate at SLIIT...**
-
-- 💪 Self learner...
-  
-- 🌱 I’m currently learning **MERN, JAVA, JavaScript, PYTHON & Mobile Application Developing...**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Java & UI/UX...**
-  
+- 💪 Self learner... 
+- 💻 Passionate about building fullstack apps with **React**, **Next.js**, **TypeScript**, and **Supabase**
+- 🧠 Constantly learning & sharing what I learn
+- 🛠️ Focused on **performance**, **developer experience**, and **clean UI**  
 - 📫 How to reach me **chamothebi@gmail.com**
-
 - ⚡ Fun fact **Biggest fear - Errors in codes😒**
 
 
-  
 <br>
 <br>
 <div id="user-content-toc">
