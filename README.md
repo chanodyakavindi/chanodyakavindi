@@ -56,9 +56,7 @@
   <tr>
     <td align="center" width="50%">
     <img
-  src="https://nirzak-streak-stats.vercel.app/?user=chanodyakavindi&theme=dark&hide_border=false&cache_seconds=86400&v=1"
-  alt="GitHub Streak Stats"
-/>
+    src="https://nirzak-streak-stats.vercel.app/?user=chanodyakavindi&amp;theme=dark&amp;hide_border=false&amp;cache_seconds=86400&amp;v=1"
   </td>
 	<td width="50%" align="center">
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chanodyakavindi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
