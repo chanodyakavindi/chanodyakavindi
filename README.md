@@ -10,7 +10,7 @@
 
 <div align="left">
   <h2>
-    Hi there, I'm Chanodya Kavindi!
+    Hi there, I'm Chanodya Kavindi!!
     <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif?raw=true" width="30" />
   </h2>
   <p align="center">
